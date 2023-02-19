@@ -1,0 +1,10 @@
+#This file defines the camera preset settings. E.g exposure level, focus etc.
+#Parameter name, opencv identifier, default value, custom value
+auto_exposure, 21, 3, 1
+exposure, 15, -1, 128
+auto_white_balance, 44, 1, 0
+white_balance_temperature, 45, -1, 4000
+auto_focus, 39, 1, 0
+focus, 28, -1, 45
+sharpness, 20, 100, 255
+gain, 14, 9, 0
